@@ -4,5 +4,10 @@
 ## Trip 
 * The trip will start at Laguna, US, first stop point is Lompoc, US, second stop point is Saint George, US, and third stop is Elko, US, and we will circle back to Laguna. 
 
+* See our city detail below:
+
+<img width="1013" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/107168891/182015394-4cb54e68-bce6-48f9-94fd-63f98851076b.png">
+
+
 ## Future Trips
 * If you wanted to build up your trip, you can update the coordianate for the cities and you will be able to generate your road trip. If you want to add more stopping point, you can add more vocations_stop with the city cooridnate and remember to update your waypoints as well. Easy to use, get ready for your road trip! 
